@@ -1,16 +1,17 @@
-id: opecha:P007874
+id: P007874
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG24797
   title: ལེགས་འགྲུབ་ཡོང་བ་ཇི་ལྟར་བྱེད། རི་མོའི་ལམ་ནས་ཧུའོ་དབྱིན་ཏུང་གི་སྐོར་གླེང་བ།
-  volume:
+  author: ''
+  volumes:
     77e6074b953e49548c05ffb1cc828b1a:
       image_group_id: I1KG24799
       title: Volume 1 of legs 'grub yong ba ji ltar byed/_ri mo'i lam nas hu'o dbyin
         tung gi skor gleng ba/
       volume_number: 1
       total_pages: 201
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ལེགས་འགྲུབ་ཡོང་བ་ཇི་ལྟར་བྱེད། རི་མོའི་ལམ་ནས་ཧུའོ་དབྱིན་ཏུང་གི་སྐོར་གླེང་བ།
   author: ''

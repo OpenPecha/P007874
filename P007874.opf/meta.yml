@@ -5,11 +5,13 @@ source_metadata:
   title: ལེགས་འགྲུབ་ཡོང་བ་ཇི་ལྟར་བྱེད། རི་མོའི་ལམ་ནས་ཧུའོ་དབྱིན་ཏུང་གི་སྐོར་གླེང་བ།
   author: ''
   volumes:
-    3b7a79fe9ad54f328bda03d1585c847b:
+    77e6074b953e49548c05ffb1cc828b1a:
       image_group_id: I1KG24799
-      title: ''
+      title: Volume 1 of legs 'grub yong ba ji ltar byed/_ri mo'i lam nas hu'o dbyin
+        tung gi skor gleng ba/
       volume_number: 1
       total_pages: 201
+      base_file: v001.txt
 ebook_metadata:
   title: ལེགས་འགྲུབ་ཡོང་བ་ཇི་ལྟར་བྱེད། རི་མོའི་ལམ་ནས་ཧུའོ་དབྱིན་ཏུང་གི་སྐོར་གླེང་བ།
   author: ''
